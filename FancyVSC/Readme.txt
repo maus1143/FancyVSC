@@ -1,6 +1,6 @@
 soooooooooooooooooooooo
 Anleitung oder so nen Shit,
-erstma gehste in Settings, änderst "----> dein Windows Name <----" zu dienem Windows Namen.
+erstma gehste in die Settings datei und änderst "----> dein Windows Name <----" zu dienem Windows Namen.
 dann gehste in VSCode drückst "strg + shift + p " und suchst nach "Open User Settings JSON"
 in die Datei die sich öffnet kopierste den Inhalt der Settings Datei (nachdem der Name angepasst wurde),
 speichern und weiter geht's.
