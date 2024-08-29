@@ -1,0 +1,38 @@
+{
+    "workbench.editorAssociations": {
+        "*.vsdx": "default"
+    },
+    "php.validate.executablePath": "",
+    "workbench.editor.enablePreview": false,
+    "gpt-code.apiKey": "farmer",
+    "editor.unicodeHighlight.invisibleCharacters": false,
+    "python.defaultInterpreterPath": "C:\\Users\\----> dein Windows Name <----\\AppData\\Local\\Microsoft\\WindowsApps\\python3.12.exe",
+    "oracledevtools.connectionConfiguration.configFilesFolder": "C:\\Users\\----> dein Windows Name <----\\Oracle\\network\\admin",
+    "[oraclesql]": {
+        "editor.suggest.showSnippets": true,
+        "editor.quickSuggestions": {
+            "comments": "on",
+            "strings": "on",
+            "other": "on"
+        }
+    },
+    "oracledevtools.connectionConfiguration.walletFileFolder": "C:\\Users\\----> dein Windows Name <----\\Oracle\\network\\admin",
+    "oracledevtools.bookmarkFileFolder": "C:\\Users\\----> dein Windows Name <----\\Oracle\\oracle.oracledevtools",
+    "oracledevtools.download.otherFolder": "C:\\Users\\----> dein Windows Name <----\\downloads",
+    "workbench.colorTheme": "JellyFish-x-Retro"
+    ,"vscode_custom_css.imports": [
+        "file:///C:/Users/----> dein Windows Name <----/.vscode/extensions/bhanu1776.jellyfish-retro-0.1.1/themes/JellyFish-x-Retro.css",
+        "file:///c:/Users/----> dein Windows Name <----/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.3/dist/updateHandler.js"
+    ],
+    "animations.Enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path-windows": "C:\\Users\\----> dein Windows Name <----\\.vs-kubernetes\\tools\\helm\\windows-amd64\\helm.exe",
+        "vscode-kubernetes.kubectl-path-windows": "C:\\Users\\----> dein Windows Name <----\\.vs-kubernetes\\tools\\kubectl\\kubectl.exe",
+        "vscode-kubernetes.minikube-path-windows": "C:\\Users\\----> dein Windows Name <----\\.vs-kubernetes\\tools\\minikube\\windows-amd64\\minikube.exe"
+    },
+    "discord-chat.token": "",
+    "redhat.telemetry.enabled": true,
+    "discord.token": "",
+    "vscode-edge-devtools.webhint": true,
+
+}
